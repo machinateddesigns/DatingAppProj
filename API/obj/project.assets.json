@@ -2395,8 +2395,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ryjak\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\James\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2404,15 +2403,11 @@
       "projectUniqueName": "C:\\Code\\Udemy\\DatingApp\\Dev\\api\\API.csproj",
       "projectName": "API",
       "projectPath": "C:\\Code\\Udemy\\DatingApp\\Dev\\api\\API.csproj",
-      "packagesPath": "C:\\Users\\ryjak\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
       "outputPath": "C:\\Code\\Udemy\\DatingApp\\Dev\\api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ryjak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2484,7 +2479,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
